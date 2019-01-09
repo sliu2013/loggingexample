@@ -1,4 +1,4 @@
 # loggingexample
 
-log4j example
-jmeter example
+* log4j example
+* jmeter example
